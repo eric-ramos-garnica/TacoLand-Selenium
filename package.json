@@ -1,0 +1,14 @@
+{
+  "name": "selenium_practice",
+  "version": "1.0.0",
+  "description": "selenium example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Ramos",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.7.1"
+  }
+}
